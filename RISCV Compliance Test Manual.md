@@ -4,6 +4,8 @@ Follow these steps in order. Every command here is confirmed working.
 `Advaita_V` is the example core name — replace it with your own core's
 top module name wherever it appears.
 
+Refer to `compliance_test` for the full working environment this guide was built from.
+
 `EXTS` is used throughout — set it once to your core's real extension
 list (comma-separated for Makefile flags, space-separated in
 `run_tests.sh`). This guide's own worked example uses `I,Zicsr`.
