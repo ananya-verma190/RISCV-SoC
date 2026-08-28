@@ -1,4 +1,4 @@
-# RISC-V Compliance Testing — Quickstart
+# RISC-V Compliance Testing
 
 Follow these steps in order. Every command here is confirmed working.
 `Advaita_V` is the example core name — replace it with your own core's
